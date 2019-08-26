@@ -1,0 +1,16 @@
+Package: waddR-data
+Version: 0.0.1
+Title: Data Used in the Package 'waddR'
+Author: Julian Flesch <j.flesch@dkfz-heidelberg.de>
+Maintainer: Julian Flesch <j.flesch@dkfz-heidelberg.de>  
+URL: https://github.com/goncalves-lab/waddR-data
+Depends: R (>= 3.1.0)
+Suggests:
+	scater
+	SingleCellExperiment
+Description: Data is a brownian bridge distribution which is used for p value
+ calculation in an asymptotic test for differential distribution in the package
+ 'waddR'.
+License: MIT + file LICENCE
+NeedsCompilation: no
+Encoding: UTF-8
